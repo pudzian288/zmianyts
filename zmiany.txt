@@ -2,3 +2,5 @@
 - Rangi Friend,Elita oraz Mini Elita utraciły parę uprawnień,
 - Na kanały z hasłem od teraz nie można wchodzić nie znając hasła. (NARUSZENIE PRYWATNOŚCI),
 - Dodano rangi cs:go oraz lol,
+#26.08.16
+- Zmiana zasady w regulaminie mówiącej o nie ingerowaniu administracji na kanałch prywatnch.
